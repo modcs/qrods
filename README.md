@@ -5,25 +5,28 @@ QRODS -  A Qt library for iRODS data system direct access
 the iRODS storage platform. The current version of QRODS implements essential manipulation functionalities
 of files and directories (collections) including metadata object information. Therefore, the QRODS may perform
 the following proceedings: </p>
-- Download, upload and delete files;
-- Create and delete collections;
-- Add and delete metadata from an object;
-- List content (files, metadata, collections) and
-- Lazy loading (collection and files - no metadata).
 
-<p>
+<ul>
+<li>Download, upload and delete files;</li>
+<li>Create and delete collections;</li>
+<li>Add and delete metadata from an object;</li>
+<li>List content (files, metadata, collections) and</li>
+<li>Lazy loading (collection and files - no metadata).</li>
+</ul>
+
+<p align="justify">
 In order to be able to perform any of the above functionalities, QRODS users must instantiate a QRODS
 object. After that, it is possible to call each specific method to conduct those operations.
 </p>
 # RODs EXplorer - RODEX
 
-<p>
+<p align="justify">
 RODs EXplorer (RODEX) is a common Qt framework application built to show the main functionalities of QRODS library.
 Such application is able to upload and download files, create and delete files or collections. It
 also allows one to add, delete and list file metadata, and to list content (files, metadata or collections) of iRODS
 data system. In order to add such functionalities to the Qt framework, Qt developers just need to include QRODS
 library into their project.
 </p>
-<p>
+<p align="justify">
 For a complete knowledge about QRODS (and RODEX), please download the QRODS User Manual.
 </p>
