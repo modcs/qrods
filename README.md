@@ -1,5 +1,5 @@
 # QRODS
-QRODS -  A Qt library for iRODS data system direct access
+QRODS -  A Qt library for iRODS data system access
 
 <p align="justify">QRODS is a library that enables software engineers to build Qt graphical user interfaces (GUI) which can access
 the iRODS storage platform. The current version of QRODS implements essential manipulation functionalities
