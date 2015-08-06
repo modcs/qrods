@@ -29,6 +29,6 @@ library into their project.
 </p>
 <p align="justify">
 For a complete knowledge about QRODS (and RODEX), please refers the <a href="https://github.com/modcs/qrods/blob/master/QRODS_User_Manual.pdf">QRODS User Manual</a>.<br>
-The QRODS Source Code Documentation can be accessed through: <a href="http://modcs.github.io/">http://modcs.github.io/</a>.
+The QRODS Source Code Documentation can be accessed through: <a href="http://modcs.github.io/qrods/">http://modcs.github.io/qrods/</a>.
 
 </p>
