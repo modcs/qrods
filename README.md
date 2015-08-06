@@ -28,7 +28,7 @@ data system. In order to add such functionalities to the Qt framework, Qt develo
 library into their project.
 </p>
 <p align="justify">
-For a complete knowledge about QRODS (and RODEX), please refers the <a href="https://github.com/modcs/qrods/blob/master/QRODS_User_Manual.pdf">QRODS User Manual</a>.
+For a complete knowledge about QRODS (and RODEX), please refers the <a href="https://github.com/modcs/qrods/blob/master/QRODS_User_Manual.pdf">QRODS User Manual</a>.<br>
 The QRODS Source Documentation can be accessed through: <a href="http://modcs.github.io/">http://modcs.github.io/</a>.
 
 </p>
