@@ -508,7 +508,7 @@ QVariant QRODS::headerData(int section, Qt::Orientation orientation, int role) c
  * Returns TRUE if the QModelIndex passed as parameter has children.
  *
  * @brief QRODS::hasChildren checks if the QModelIndex has children.
- * @param parent a QModelIndex.
+ * @param parent a QModelIndex
  * @return returns TRUE if the QModelIndex passed as parameter has children.
  */
 bool QRODS::hasChildren(const QModelIndex &parent) const
